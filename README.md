@@ -1,29 +1,5 @@
-# techno-cursos
+# Techno-Cursos
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+:bulb: Plataforma de Cursos Online realizado no curso de Curso Vue.js 2 Completo - Origamid.
+<h1>Plataforma De Cursos: Techno</h1>
+<hr>
