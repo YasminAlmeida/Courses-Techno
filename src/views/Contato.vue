@@ -7,7 +7,6 @@
       <div v-if='api'>
         <h1>Contato</h1>
         <p>{{api.descricao}}</p>
-        <!-- <p>{{api}}</p> -->
         <ul>
           <li>
             <b>Email:</b>
