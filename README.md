@@ -4,4 +4,5 @@
 <h1>Plataforma De Cursos: Techno</h1>
 <br>
 
-![Cursos-techno](https://user-images.githubusercontent.com/100879182/177217184-3abb80ef-9add-4dd2-88d7-caba905b4ebb.png)
+![Cursos-techno](https://user-images.githubusercontent.com/100879182/180468387-be2c81a0-4705-47f1-ad22-c4944f284ba5.png)
+
